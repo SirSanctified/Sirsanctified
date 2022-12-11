@@ -7,12 +7,12 @@
 - 🔭 I’m Software Engineering student at @ALX Africa 
 - 🌱 I’m currently learning JavaScript and Nodejs
 - 👯 I’m looking to collaborate on any project.
-- 💬 Ask me about any thing, be sure I'll be genrous
+- 💬 Ask me about any thing, be sure I'll be genarous
 - 📫 How to reach me: <mambambopritchard@gmail.com>
 
 ## My Stack(used or still using)
 
-Bellow  currently or Previously used Stack
+Below  currently or Previously used Stack
 
 ### Languages 💻 🌐
 
@@ -31,7 +31,7 @@ Bellow  currently or Previously used Stack
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Technologies and Tool ⚙️ 🖥
+### Technologies and Tools ⚙️ 🖥
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
