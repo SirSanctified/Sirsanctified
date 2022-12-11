@@ -7,7 +7,7 @@
 - 🔭 I’m Software Engineering student at @ALX Africa 
 - 🌱 I’m currently learning JavaScript and Nodejs
 - 👯 I’m looking to collaborate on any project.
-- 💬 Ask me about any thing, be sure I'll be genarous
+- 💬 Ask me about any thing, be sure I'll be generous
 - 📫 How to reach me: <mambambopritchard@gmail.com>
 
 ## My Stack(used or still using)
