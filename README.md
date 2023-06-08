@@ -5,7 +5,7 @@
 [![GitHub: SirSanctified](https://img.shields.io/github/followers/SirSanctified?label=follow&style=for-the-badge&color=black)](https://github.com/SirSanctified)
 
 - 🔭 I’m Software Engineering student at @ALX Africa 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be generous
 - 📫 How to reach me: <mambambopritchard@gmail.com>
@@ -30,7 +30,7 @@ Below  currently or Previously used Stack
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) -->
-[![My Skills](https://skills.thijs.gg/icons?i=django,flask,nodejs,expressjs,tailwind,bootstrap,figma&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=django,flask,nodejs,expressjs,react,tailwind,bootstrap,figma&theme=dark)](https://skills.thijs.gg)
 
 ### Technologies and Tools 💡 ⚒️
 
