@@ -4,15 +4,15 @@
 [![Linkedin: pritchard-mambambo](https://img.shields.io/badge/-pritchard-mambambo?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/pritchard-mambambo-611427193/)](https://www.linkedin.com/in/pritchard-mambambo-611427193/)
 [![GitHub: SirSanctified](https://img.shields.io/github/followers/SirSanctified?label=follow&style=for-the-badge&color=black)](https://github.com/SirSanctified)
 
-- 🔭 I’m Software Engineering student at @ALX Africa 
-- 🌱 I’m currently learning React Native
+- 🔭 I’m Software Engineering Intern at Digital Geeks 
+- 🌱 I’m currently refining my Nodejs skills
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be generous
 - 📫 How to reach me: <mambambopritchard@gmail.com>
 
 ## My Stack(used or still using)
 
-Below  currently or Previously used Stack
+Below are my currently or Previously used Stacks
 
 ### Languages 🖥️ 🔭
 
