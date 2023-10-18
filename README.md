@@ -4,8 +4,8 @@
 [![Linkedin: pritchard-mambambo](https://img.shields.io/badge/-pritchard-mambambo?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/pritchard-mambambo-611427193/)](https://www.linkedin.com/in/pritchard-mambambo-611427193/)
 [![GitHub: SirSanctified](https://img.shields.io/github/followers/SirSanctified?label=follow&style=for-the-badge&color=black)](https://github.com/SirSanctified)
 
-- 🔭 I’m a Software Engineering Intern at Digital Geeks 
-- 🌱 I’m currently refining my Nodejs skills
+- 🔭 I’m a Software Developer Intern at Credisafe 
+- 🌱 I’m currently refining my Reactjs skills
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be generous
 - 📫 How to reach me: <mambambopritchard@gmail.com>
