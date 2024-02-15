@@ -21,11 +21,11 @@ Below are my current or Previously used Stacks
 
 ### Frameworks, Platforms and Libraries 💻 📚
 
-[![My Skills](https://skills.thijs.gg/icons?i=django,flask,nodejs,expressjs,nextjs,react,tailwind,bootstrap,figma&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=django,flask,nodejs,expressjs,nextjs,react,tailwind,bootstrap,figma,heroku,vercel,netlify,aws&theme=dark)](https://skills.thijs.gg)
 
 ### Technologies and Tools 💡 ⚒️
 
-[![My Skills](https://skills.thijs.gg/icons?i=postgres,mysql,vim,git,linux,postman,vscode&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=postgres,mysql,mongodb,nginx,docker,vim,git,linux,postman,vscode&theme=dark)](https://skills.thijs.gg)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
 ## Stats
