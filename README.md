@@ -7,9 +7,9 @@
 <h4 align="center">
     I am a Fullstack Software Engineer. I specialize in developing user-friendly applications and web services. I also have a good understanding of object-oriented programming and functional programming. I am experienced in using frameworks such as Django, Flask, Expressjs, Reactjs and Nextjs as well as libraries such as NumPy, Pandas, and SciPy.
     
-     If you're here please give me stars ⭐ And don't forget to follow
+If you're here please give me stars ⭐ And don't forget to follow
 </h4>
-- 📫 How to reach me: <mambambopritchard@gmail.com>
+- 📫 How to reach me: [mambambopritchard@gmail.com]
 
 ## My Stack(used or still using)
 
