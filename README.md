@@ -4,9 +4,9 @@
 [![Linkedin: pritchard-mambambo](https://img.shields.io/badge/-pritchard-mambambo?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/pritchard-mambambo-611427193/)](https://www.linkedin.com/in/pritchard-mambambo/)
 [![GitHub: SirSanctified](https://img.shields.io/github/followers/SirSanctified?label=follow&style=for-the-badge&color=black)](https://github.com/SirSanctified)
 
-<h4 align="center">
+<h4 align="start">
     I am a Fullstack Software Engineer. I specialize in developing user-friendly applications and web services. I also have a good understanding of object-oriented programming and functional programming. I am experienced in using frameworks such as Django, Flask, Expressjs, Reactjs and Nextjs as well as libraries such as NumPy, Pandas, and SciPy.
-    
+    <br></br>
 If you're here please give me stars ⭐ And don't forget to follow
 </h4>
 - 📫 How to reach me: [mambambopritchard@gmail.com]
