@@ -1,13 +1,14 @@
 # Hi There, I'm Pritchard   👋
 
 [![Twitter: Sir_sanctified](https://img.shields.io/twitter/follow/Sir_sanctified?style=for-the-badge&color=black)](https://twitter.com/Sir_sanctified)
-[![Linkedin: pritchard-mambambo](https://img.shields.io/badge/-pritchard-mambambo?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/pritchard-mambambo-611427193/)](https://www.linkedin.com/in/pritchard-mambambo-611427193/)
+[![Linkedin: pritchard-mambambo](https://img.shields.io/badge/-pritchard-mambambo?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/pritchard-mambambo-611427193/)](https://www.linkedin.com/in/pritchard-mambambo/)
 [![GitHub: SirSanctified](https://img.shields.io/github/followers/SirSanctified?label=follow&style=for-the-badge&color=black)](https://github.com/SirSanctified)
 
-- 🔭 I’m a Software Developer Intern at Credisafe 
-- 🌱 I’m currently refining my Reactjs skills
-- 👯 I’m looking to collaborate on any project.
-- 💬 Ask me about anything, be sure I'll be generous
+<h4 align="center">
+    I am a Fullstack Software Engineer. I specialize in developing user-friendly applications and web services. I also have a good understanding of object-oriented programming and functional programming. I am experienced in using frameworks such as Django, Flask, Expressjs, Reactjs and Nextjs as well as libraries such as NumPy, Pandas, and SciPy.
+    
+     If you're here please give me stars ⭐ And don't forget to follow
+</h4>
 - 📫 How to reach me: <mambambopritchard@gmail.com>
 
 ## My Stack(used or still using)
