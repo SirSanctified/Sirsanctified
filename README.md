@@ -22,6 +22,7 @@ Below are some of my current or previously used tech stacks
 <img align="left" alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/50/000000/javascript.png" />
 <img align="left" alt="Bash" width="40px" src="https://img.icons8.com/color/50/000000/bash.png" />
+<img align="left" alt="JSON" width="40px" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
@@ -30,12 +31,8 @@ Below are some of my current or previously used tech stacks
 <div>
 <img align="left" alt="Django" width="40px" src="https://img.icons8.com/color/48/000000/django.png" />
 <img align="left" alt="Flask" width="40px" src="https://img.icons8.com/ios-filled/48/000000/flask.png" />
-<img align="left" alt="PyTorch" width="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
-<img align="left" alt="Pytest" width="40px" src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" />
 <img align="left" alt="Expressjs" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
 <img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="JSON" width="40px" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" />
-<img align="left" alt="Jest" width="40px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Redux" width="40px" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" />
