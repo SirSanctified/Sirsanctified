@@ -13,20 +13,58 @@ If you're here please give me stars ⭐ And don't forget to follow
 
 ## My Stack(used or still using)
 
-Below are my current or Previously used Stacks
+Below are some of my current or previously used tech stacks
 
-### Languages 🖥️ 🔭
+### Languages, Frameworks, Platforms, Libraries, Technologies and Tools 💡 ⚒️ 💻 📚 🔭
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,css,html,javascript,typescript,markdown,python,bash,java&theme=dark)](https://skills.thijs.gg)
+<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/50/000000/javascript.png" />
+<img align="left" alt="Bash" width="40px" src="https://img.icons8.com/color/50/000000/bash.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-### Frameworks, Platforms and Libraries 💻 📚
+<br/>
+<hr/>
+<div>
+<img align="left" alt="Django" width="40px" src="https://img.icons8.com/color/48/000000/django.png" />
+<img align="left" alt="Flask" width="40px" src="https://img.icons8.com/ios-filled/48/000000/flask.png" />
+<img align="left" alt="PyTorch" width="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+<img align="left" alt="Pytest" width="40px" src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" />
+<img align="left" alt="Expressjs" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
+<img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+<img align="left" alt="JSON" width="40px" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" />
+<img align="left" alt="Jest" width="40px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
+<img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+<img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="Redux" width="40px" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" />
+<img align="left" alt="Expo" width="40px" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" />
+<img align="left" alt="NextJS" width="40px" style="background-color: white;" src="https://img.icons8.com/color/48/000000/nextjs.png" />
+<img align="left" alt="Angular" width="40px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
+<img align="left" alt="TaiwindCSS" width="40px" src="https://img.icons8.com/color/48/000000/tailwindcss.png" />
+<img align="left" alt="Bootstrap" width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+</div>
+<br />
+<hr/>
 
-[![My Frameworks](https://skills.thijs.gg/icons?i=django,flask,nodejs,expressjs,nextjs,react,tailwind,bootstrap,figma,heroku,vercel,netlify,aws&theme=dark)](https://skills.thijs.gg)
 
-### Technologies and Tools 💡 ⚒️
+<img align="left" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
+<img align="left" alt="Jenkins" width="40px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+<img align="left" alt="MySQL" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<img align="left" alt="PostgreSQL" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+<img align="left" alt="MongoDB" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<img align="left" alt="SQLite" width="40px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
+<img align="left" alt="DataDog" width="40px" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" />
+<img align="left" alt="NGINX" width="40px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" />
+<img align="left" alt="Linux" width="40px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
+<img align="left" alt="AWS" width="40px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
+<img align="left" alt="Microsoft Azure" width="40px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 
-[![My Technologies](https://skills.thijs.gg/icons?i=postgres,mysql,mongodb,nginx,docker,vim,git,linux,postman,vscode&theme=dark)](https://skills.thijs.gg)
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+<br />
+
+<br />
+<hr />
 
 ## Stats
 
