@@ -33,7 +33,6 @@ Below are some of my current or previously used tech stacks
 <img align="left" alt="Flask" width="40px" src="https://img.icons8.com/ios-filled/48/000000/flask.png" />
 <img align="left" alt="Expressjs" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
 <img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Redux" width="40px" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" />
 <img align="left" alt="Expo" width="40px" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" />
